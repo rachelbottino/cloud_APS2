@@ -4,7 +4,7 @@ import requests
 import json
 import sys
 
-url = 'http://0.0.0.0:5000/Tarefa'
+url = 'http:/18.215.171.187:5000/Tarefa'
 
 def help():
 	print('''
